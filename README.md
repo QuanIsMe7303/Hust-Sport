@@ -1,12 +1,10 @@
-# FE Sport-CNPM
+# HUST SPORT
 
 
 
-## Getting started
+## Giới thiệu
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Bài tập lớn môn Nhập môn Công nghệ phần mềm - ĐHBKHN
 
 ## Add your files
 
